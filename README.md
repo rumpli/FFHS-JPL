@@ -1,6 +1,6 @@
 # FFHS-JPL
 
-[![License](https://img.shields.io/badge/License-GNU--v3.0-lightgrey)](https://github.com/rumpli/FFHS-JPL/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-GPL--v3.0-lightgrey)](https://github.com/rumpli/FFHS-JPL/blob/main/LICENSE)
 ![Code](https://img.shields.io/badge/Language-Java-blue)
 
 -----
