@@ -33,7 +33,22 @@ Anforderungen
 - Das User Interface kann als Text UI auf der Konsole, als Web- oder als JavaFX Anwendung umgesetzt werden.
 
 ### Evaluation and grade
-tbd
+Grade: 5.0
+
+Evaluation:
+- Das Spiel laesst sich builden und es laeuft. Die Bedienung ist allerdings gewoehnungsbeduerftig und sehr unflexibel. Muehsam ist auch dass der Server nach jedem Spiel herunterfaehrt und neu gestartet werden muss.
+- Das Spiel laueft auch ueber das Netzwerk ohne erkennbare Probleme.
+- Was bedeuten die Haus-Bezeichnungen wie Gryffindor?
+- Viele Tests sind vollkommen nutzlos weil sie gar nichts testen, zum Beispiel die beiden "Testklassen" im server-Directory.
+- Positiv: alle Methoden haben Javadoc-Kommentare.
+- Der Code ist vernuenftig in Packages aufgeteilt.
+- Records waren nicht im Modulplan, aber ich haette wenigstens den Kommentar geloescht...
+// IntelliJ rewrote previous class to record
+// What is a record? https://www.developer.com/java/java-record-class/#:~:text=Record%20is%20a%20special%20purpose,added%20into%20the%20Java%20language.
+- Gute Anwendung fuer das CountdownLatch im Server.
+- public class Client extends Player /
+Player sollte eher ein Attribut vom Client sein (uses Player)
+- Dokumentation: keine
 
 ### More FFHS projects
 
